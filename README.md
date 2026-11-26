@@ -19,7 +19,10 @@ To implement the Canny Edge Detection algorithm on a sample image using Python a
 5. Display the original and detected edge images.
 6. Change threshold values and compare the results.
 
-## Python Code
+## Program
+### Developed by
+#### Name: MADHUMITHA R R
+#### Reg no: 212224240083
 
 ```python
 import cv2
